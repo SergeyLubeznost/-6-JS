@@ -1,0 +1,43 @@
+#trafficLightRed {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    transition: all 0.3s linear;
+  }
+  #trafficLightYellow {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    transition: all 0.3s linear;
+  }
+  #trafficLightGreen {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    transition: all 0.3s linear;
+  }
+  .conteiner{
+    border: 2px solid black;
+    width:100px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(87, 87, 87);
+  }
+
+  .stoyka{
+    height: 440px;
+    width: 30px;
+    background-color: black;
+    margin-left: 55px;
+  }
+
+  .platforma{
+    width:120px;
+    height:30px;
+    border-radius: 20px 20px 0 0;
+    background-color: black;
+    margin-left: 9px;
+  }

@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+  }
+  a{
+    text-decoration: none;
+    color: darkslategrey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-shadow: 5px 5px 10px rgb(48, 48, 48);
+    letter-spacing: 5px;
+
+  }
+  li{
+    margin-top: 20px;
+    list-style: none;
+  }

@@ -1,0 +1,12 @@
+#trafficLight {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: black;
+  }
+  body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
